@@ -9,8 +9,6 @@ A web app for a GB energy utility's day-ahead purchasing team. It answers two qu
 **API:** https://wind-forecast-monitor-xnfd.onrender.com
 **Demo video:** `<ADD UNLISTED YOUTUBE URL HERE>`
 
-> **AI tools disclosure:** This project was built with assistance from Claude (Anthropic) for code generation and drafting. I reviewed, ran and tested the result.
-
 ## Key idea
 
 A forecast for a half-hour can be published many times. The buyer decides on the day before delivery, so for each half-hour the app uses **the latest forecast published at or before a decision deadline** (default 09:00 UTC on the day before, configurable in the UI). Forecasts published after the deadline are ignored, because the buyer could not have seen them.
