@@ -5,8 +5,8 @@ A web app for a GB energy utility's day-ahead purchasing team. It answers two qu
 1. **What was the latest wind forecast available when the day-ahead purchase decision had to be made?**
 2. **How accurate are those forecasts, and how large a safety margin does the error justify?**
 
-**Live app:** (https://wind-forecast-monitor-swart.vercel.app)
-**API:** (https://wind-forecast-monitor-xnfd.onrender.com)
+**Live app:** https://wind-forecast-monitor-swart.vercel.app
+**API:** https://wind-forecast-monitor-xnfd.onrender.com
 **Demo video:** `<ADD UNLISTED YOUTUBE URL HERE>`
 
 > **AI tools disclosure:** This project was built with assistance from Claude (Anthropic) for code generation and drafting. I reviewed, ran and tested the result.
